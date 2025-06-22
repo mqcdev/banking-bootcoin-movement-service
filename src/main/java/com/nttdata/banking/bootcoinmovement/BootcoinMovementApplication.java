@@ -10,10 +10,10 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  */
 @SpringBootApplication
 @EnableEurekaClient
-public class MsBootcoinMovementApplication {
+public class BootcoinMovementApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MsBootcoinMovementApplication.class, args);
+		SpringApplication.run(BootcoinMovementApplication.class, args);
 	}
 
 }
