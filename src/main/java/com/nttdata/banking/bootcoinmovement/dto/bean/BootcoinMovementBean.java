@@ -2,7 +2,6 @@ package com.nttdata.banking.bootcoinmovement.dto.bean;
 
 import com.nttdata.banking.bootcoinmovement.model.Bootcoin;
 import com.nttdata.banking.bootcoinmovement.model.BootcoinMovement;
-import com.nttdata.bootcamp.msbootcoinmovement.model.*;
 import lombok.NoArgsConstructor;
 import lombok.AllArgsConstructor;
 import lombok.ToString;
